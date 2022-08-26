@@ -33,7 +33,7 @@ configuration_type: git
 configuration_git_version: main
 configuration_git_host: github.com
 configuration_git_port: 443
-configuration_git_repository: parduengo/osism-vbox.git
+configuration_git_repository: parduengo/osism-vmbox.git
 configuration_git_protocol: https
 
 ##########################
